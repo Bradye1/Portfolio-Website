@@ -41,18 +41,22 @@ li a:hover {
 	text-align: center;
 	color: #1AF111;
 }
+.award {
+	display: list-item;
+	text-align: center;
+	color: #1AF111;
+}
 .expitem { /* Name of Company*/
 	display: list-item;
-	text-align: left;
-	margin-left: 10%;
-	color: white;
+	text-align: center;
+	color: #1AF111;
+	font-weight: bold;
 	font-size: 20px;
 }
 
 .expdes { /* Position Description*/
 	display: list-item;
-	text-align: left;
-	margin-left: 10%;
+	text-align: center;
 	color: #1AF111;
 }
 
