@@ -39,7 +39,7 @@ var str3 = "<h2>Awards</h2> <ul class=\"awardslist\"> <li class=\"award\"><stron
     if( char === '>' ) isTag2 = false;
 
     if (isTag2) return type2();
-    setTimeout(type2, 25); //typing speed
+    setTimeout(type2, 20); //typing speed
 }());
 
 (function type3() {
